@@ -1,0 +1,7 @@
+  This   is   a    test   file.  
+
+It    contains     some   lines     with   irregular   spacing.   
+
+You     should     remove   extra     spaces    and    format    it    properly.     
+
+   Another     line      with      a   lot      of      spaces.   
