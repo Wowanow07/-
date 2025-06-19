@@ -18,6 +18,7 @@ void swap(Book &a, Book &b) {
 }
 
 int main() {
+    setlocale(LC_ALL, "ukr");
     const int N = 5; // Кількість книг
     Book library[N] = {
         {"Майстер і Маргарита", "Булгаков", 1967, 350},
