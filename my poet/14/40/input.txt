@@ -1,0 +1,6 @@
+This   is   an example    text,   which   
+contains    excessive   spaces.    
+
+The program  should   remove   them,  
+so that   each  word   is  separated  
+by only   one  space.  
